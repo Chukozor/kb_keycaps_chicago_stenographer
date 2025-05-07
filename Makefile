@@ -1,5 +1,5 @@
 # Much faster, but requires OpenScad snapshot
-OPENSCAD="/Applications/OpenSCAD Snapshot.app/Contents/MacOS/OpenSCAD" --enable=manifold
+OPENSCAD="C:\Program Files\OpenSCAD" --enable=manifold
 
 # This will work with the stable openscad
 #OPENSCAD="/Applications/OpenSCAD.app/Contents/MacOS/OpenSCAD"

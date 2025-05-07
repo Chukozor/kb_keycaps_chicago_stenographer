@@ -70,6 +70,15 @@ available_keycaps = [
     ["cs_t_stem_rot_15_r",  3,  3, 1.00,   0,  0, true,  false, false],
     ["cs_t_stem_rot_2_l",   3,  4, 1.00,   0,  0, false, false, false],
     ["cs_t_stem_rot_2_r",   3,  4, 1.00,   0,  0, true,  false, false],
+
+    ["cs_r1_1",             1, 17, 1.00,   0,  0, false, false, false],
+    ["cs_r1_1_high",        1, 18, 1.00,   0,  0, false, false, false],
+    ["cs_r1_1_rotate",      1, 17, 1.00,   180,  0, false, false, false],
+    ["cs_r1_1_high_rotate", 1, 18, 1.00,   180,  0, false, false, false],
+    ["cs_r5_1",             1, 17, 1.00,   180,  0, false, false, false],
+    ["cs_r5_1_high",        1, 18, 1.00,   180,  0, false, false, false],
+
+
 ];
 
 function get_keycap(keycap_id) = [
